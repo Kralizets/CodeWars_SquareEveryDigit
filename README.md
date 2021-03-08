@@ -1,0 +1,2 @@
+# SquareEveryDigit
+Square Every Digit
